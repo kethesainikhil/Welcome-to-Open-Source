@@ -59,15 +59,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
-                    <br />
-                    <sub><b>Vivek Thakur</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://github.com/kethesainikhil">
                     <img src="https://avatars.githubusercontent.com/u/70809367?v=4" width="100px;" alt="Kethe Sai Nikhil"/>
